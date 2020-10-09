@@ -1,5 +1,5 @@
 {
-  "name": "blaster",
+  "name": "@1105420698/blaster",
   "version": "0.0.1",
   "description": "Blast your way out of JS!",
   "main": "src/index.js",
